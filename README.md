@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 I'm a Full-Stack Web Developer<br>👨🏻‍💻 Software Engineering Student
+🌐 Full-Stack Web Developer<br>👨🏻‍💻 Software Engineering Student
 
 
 ## 🌐 Socials:
